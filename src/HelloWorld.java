@@ -7,4 +7,10 @@ public class HelloWorld {
 
     // Doing awesome work2!
 
+    // Git is a version control system.
+
+    // Github is a cloud-based online platform that helps you keep track of changes in your files.
+
+    // This commit is ready to be pushed to remote repository.
+
 }
